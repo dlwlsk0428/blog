@@ -1,6 +1,6 @@
 # JPA를 왜 사용해야 하는가?
 ## 1. SQL 중심적인 개발에서 객체 중심으로 개발
-- [SQL 중심적인 개발의 문제점 참고](https://github.com/lemonjelly123/blog/new/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/JPA)
+- [SQL 중심적인 개발의 문제점 참고](https://github.com/lemonjelly123/blog/blob/main/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/JPA/SQL%20%EC%A4%91%EC%8B%AC%EC%A0%81%EC%9D%B8%20%EA%B0%9C%EB%B0%9C%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
 ## 2. 생산성
 - JPA를 사용하는 것은 마치 Java Collection에 데이터를 넣었다 빼는 것처럼 사용할 수 있게 만든 것이다.
 - 간단한 CRUD
