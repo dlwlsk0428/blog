@@ -1,4 +1,6 @@
-# Shadowing 팁 ~.~
+# Shadowing 팁 
+
+이번에 코틀린으로 프로젝트를 하며 shadowing에 대해 찾아보게 되었다.
 
 ```
 package io.sebi.demo
